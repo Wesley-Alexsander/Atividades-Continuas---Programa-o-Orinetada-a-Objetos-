@@ -1,10 +1,3 @@
-# INSIRA ABAIXO OS NOMES DOS ALUNOS DO GRUPO (máximo 6 alunos)
-# ALUNO 1: Wesley Alexsander Lopes da Silva (RA: 2201522)
-# ALUNO 2: Vinícius Lima Gonçalves (RA: 2201974)
-# ALUNO 3: Caio Vinícius Lima Costa (RA: 2200284)
-# ALUNO 4: Pedro Henrique Gonçalves Damiatti (RA: 2202120)
-# ALUNO 5: Gustavo almeida ferreira (RA: 2201672)
-
 
 '''
 Implemente a função 'posicoes' que recebe como argumentos de entrada uma
